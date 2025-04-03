@@ -105,16 +105,16 @@ Corrupted Substrate: Finely crushed emerald suspended in strong acid, imbued wit
 Reactive Powder: A combustible red powder, imbued with magic, used in alchemical crafting.
 Polishing Paste: Finely ground diamond suspended in oil with highly abrasive properties.
 Sanguine Infusion: A highly viscous crimson elixir swirling with the malevolent power of demon blood.
-Air Talisman: A magical talisman that can be consumed to strengthen your link to air magic. Gives 15,000 to 35,000 essence after the first use.
-Earth Talisman: A magical talisman that can be consumed to strengthen your link to earth magic. Gives 15,000 to 35,000 essence after the first use.
-Fire Talisman: A magical talisman that can be consumed to strengthen your link to fire magic. Gives 15,000 to 35,000 essence after the first use.
-Water Talisman: A magical talisman that can be consumed to strengthen your link to water magic. Gives 15,000 to 35,000 essence after the first use.
-Blood Talisman: A magical talisman that can be consumed to strengthen your link to blood magic. Gives 15,000 to 35,000 essence after the first use.
-Death Talisman: A magical talisman that can be consumed to strengthen your link to death magic. Gives 15,000 to 35,000 essence after the first use.
-Chaos Talisman: A magical talisman that can be consumed to strengthen your link to chaos magic. Gives 15,000 to 35,000 essence after the first use.
-Nature Talisman: A magical talisman that can be consumed to strengthen your link to nature magic. Gives 15,000 to 35,000 essence after the first use.
-Mind Talisman: A magical talisman that can be consumed to strengthen your link to mind magic. Gives 15,000 to 35,000 essence after the first use.
-Cosmic Talisman: A magical talisman that can be consumed to strengthen your link to cosmic magic. Gives 15,000 to 35,000 essence after the first use.
+Air Talisman: A magical talisman that can be consumed to strengthen your link to air magic. Gives 35,000 to 50,000 essence after the first use.
+Earth Talisman: A magical talisman that can be consumed to strengthen your link to earth magic. Gives 35,000 to 50,000 essence after the first use.
+Fire Talisman: A magical talisman that can be consumed to strengthen your link to fire magic. Gives 35,000 to 50,000 essence after the first use.
+Water Talisman: A magical talisman that can be consumed to strengthen your link to water magic. Gives 35,000 to 50,000 essence after the first use.
+Blood Talisman: A magical talisman that can be consumed to strengthen your link to blood magic. Gives 35,000 to 50,000 essence after the first use.
+Death Talisman: A magical talisman that can be consumed to strengthen your link to death magic. Gives 35,000 to 50,000 essence after the first use.
+Chaos Talisman: A magical talisman that can be consumed to strengthen your link to chaos magic. Gives 35,000 to 50,000 essence after the first use.
+Nature Talisman: A magical talisman that can be consumed to strengthen your link to nature magic. Gives 35,000 to 50,000 essence after the first use.
+Mind Talisman: A magical talisman that can be consumed to strengthen your link to mind magic. Gives 35,000 to 50,000 essence after the first use.
+Cosmic Talisman: A magical talisman that can be consumed to strengthen your link to cosmic magic. Gives 35,000 to 50,000 essence after the first use.
 Air Rune: A slate imbued with magic essence. Often needed to perform magic.
 Earth Rune: A slate imbued with magic essence. Often needed to perform magic.
 Fire Rune: A slate imbued with magic essence. Often needed to perform magic.
