@@ -203,8 +203,8 @@ Pyre Willow Log: These can be burned for high heat.
 Pyre Maple Log: These can be burned for a lot of heat.
 Pyre Yew Log: These can be burned for massive heat.
 Pyre Elder Log: These can be burned for massive heat.
-Inert Heat Stone: These can be charged with heat to transfer heat elsewhere.
-Charged Heat Stone: These can be broken for massive heat.
+Inert Heat Stone: These can be charged with heat to transfer it elsewhere, though some is lost in the process.
+Charged Heat Stone: These can be broken for 25000 to 35000 heat.
 Ichor: A strange substance found in the presence of demons.
 Phoenix's Feather: A white-hot feather taken from a fallen phoenix.
 Geode: Perhaps you could crack this open?
