@@ -105,16 +105,16 @@ Corrupted Substrate: Finely crushed emerald suspended in strong acid, imbued wit
 Reactive Powder: A combustible red powder, imbued with magic, used in alchemical crafting.
 Polishing Paste: Finely ground diamond suspended in oil with highly abrasive properties.
 Sanguine Infusion: A highly viscous crimson elixir swirling with the malevolent power of demon blood.
-Air Talisman: A magical talisman that can be consumed to strengthen your link to air magic.
-Earth Talisman: A magical talisman that can be consumed to strengthen your link to earth magic.
-Fire Talisman: A magical talisman that can be consumed to strengthen your link to fire magic.
-Water Talisman: A magical talisman that can be consumed to strengthen your link to water magic.
-Blood Talisman: A magical talisman that can be consumed to strengthen your link to blood magic.
-Death Talisman: A magical talisman that can be consumed to strengthen your link to death magic.
-Chaos Talisman: A magical talisman that can be consumed to strengthen your link to chaos magic.
-Nature Talisman: A magical talisman that can be consumed to strengthen your link to nature magic.
-Mind Talisman: A magical talisman that can be consumed to strengthen your link to mind magic.
-Cosmic Talisman: A magical talisman that can be consumed to strengthen your link to cosmic magic.
+Air Talisman: A magical talisman that can be consumed to strengthen your link to air magic. Gives 15,000 to 35,000 essence after the first use.
+Earth Talisman: A magical talisman that can be consumed to strengthen your link to earth magic. Gives 15,000 to 35,000 essence after the first use.
+Fire Talisman: A magical talisman that can be consumed to strengthen your link to fire magic. Gives 15,000 to 35,000 essence after the first use.
+Water Talisman: A magical talisman that can be consumed to strengthen your link to water magic. Gives 15,000 to 35,000 essence after the first use.
+Blood Talisman: A magical talisman that can be consumed to strengthen your link to blood magic. Gives 15,000 to 35,000 essence after the first use.
+Death Talisman: A magical talisman that can be consumed to strengthen your link to death magic. Gives 15,000 to 35,000 essence after the first use.
+Chaos Talisman: A magical talisman that can be consumed to strengthen your link to chaos magic. Gives 15,000 to 35,000 essence after the first use.
+Nature Talisman: A magical talisman that can be consumed to strengthen your link to nature magic. Gives 15,000 to 35,000 essence after the first use.
+Mind Talisman: A magical talisman that can be consumed to strengthen your link to mind magic. Gives 15,000 to 35,000 essence after the first use.
+Cosmic Talisman: A magical talisman that can be consumed to strengthen your link to cosmic magic. Gives 15,000 to 35,000 essence after the first use.
 Air Rune: A slate imbued with magic essence. Often needed to perform magic.
 Earth Rune: A slate imbued with magic essence. Often needed to perform magic.
 Fire Rune: A slate imbued with magic essence. Often needed to perform magic.
@@ -204,7 +204,7 @@ Pyre Maple Log: These can be burned for a lot of heat.
 Pyre Yew Log: These can be burned for massive heat.
 Pyre Elder Log: These can be burned for massive heat.
 Inert Heat Stone: These can be charged with heat to transfer it elsewhere, though some is lost in the process.
-Charged Heat Stone: These can be broken for 25000 to 35000 heat.
+Charged Heat Stone: These can be broken for 25,000 to 35,000 heat.
 Ichor: A strange substance found in the presence of demons.
 Phoenix's Feather: A white-hot feather taken from a fallen phoenix.
 Geode: Perhaps you could crack this open?
